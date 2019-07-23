@@ -5,7 +5,7 @@ describe('Calculos matematicos', () => {
         expect(Maths.sumar(1,1)).toBe(2);
     });
 
-    test('Prueva de resta', () => {
+    test('Prueba de resta', () => {
         expect(Maths.restar(3,2)).toBe(1);
     });
 
