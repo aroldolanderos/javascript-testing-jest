@@ -1,0 +1,21 @@
+{
+  "name": "javascript-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Aroldo Landeros <aroldolanderos@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.8.0"
+  }
+}
