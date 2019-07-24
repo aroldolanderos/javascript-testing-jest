@@ -1,7 +1,7 @@
 {
   "name": "javascript-testing-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Seguimiento de Curso de JavaScript Testing con Jest - Oscar Barajas Tavares, Platzi",
   "main": "index.js",
   "scripts": {
     "test": "jest",
