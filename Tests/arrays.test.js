@@ -8,6 +8,6 @@ describe('Verifica si existe un elemento', () => {
         expect(getColors()).not.toContain('celeste')
     });
     test('Comprobar el tamaño de un arreglo', () => {
-        expect(getFruits()).toHaveLength(7)
+        expect(getFruits()).toHaveLength(8)
     });
 });
